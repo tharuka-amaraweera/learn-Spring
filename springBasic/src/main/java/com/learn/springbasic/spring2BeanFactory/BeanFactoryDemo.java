@@ -1,4 +1,4 @@
-package com.learn.springbasic.Spring2BeanFactory;
+package com.learn.springbasic.spring2BeanFactory;
 
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

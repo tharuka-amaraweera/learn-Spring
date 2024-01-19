@@ -1,4 +1,4 @@
-package com.learn.springbasic.Spring2BeanFactory;
+package com.learn.springbasic.spring2BeanFactory;
 
 // Java Program where we are
 // creating a POJO class

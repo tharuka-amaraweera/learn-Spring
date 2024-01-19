@@ -1,4 +1,4 @@
-package com.learn.springbasic.Spring1IoC;
+package com.learn.springbasic.spring1IoC;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

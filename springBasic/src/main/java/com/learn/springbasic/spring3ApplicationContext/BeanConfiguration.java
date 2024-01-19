@@ -1,4 +1,4 @@
-package com.learn.springbasic.Spring3ApplicationContext;
+package com.learn.springbasic.spring3ApplicationContext;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

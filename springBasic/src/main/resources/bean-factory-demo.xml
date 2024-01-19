@@ -3,12 +3,12 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="student" class="com.learn.springbasic.Spring2BeanFactory.Student">
+    <bean id="student" class="com.learn.springbasic.spring2BeanFactory.Student">
         <constructor-arg name="name" value="Tharuka"/>
         <constructor-arg name="age" value="28"/>
     </bean>
 
-    <bean id="studentTwo" class="com.learn.springbasic.Spring2BeanFactory.Student">
+    <bean id="studentTwo" class="com.learn.springbasic.spring2BeanFactory.Student">
         <constructor-arg name="name" value="Dashanka"/>
     </bean>
 </beans>

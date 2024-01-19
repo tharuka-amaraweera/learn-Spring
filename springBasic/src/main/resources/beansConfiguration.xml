@@ -5,5 +5,5 @@
 
     <!--inside the id, we have to pass the unique id and
     inside the class, we have to pass the Class name for which you want to create the bean.-->
-    <bean id="mob" class="com.learn.springbasic.Spring1IoC.Voderfone"></bean>
+    <bean id="mob" class="com.learn.springbasic.spring1IoC.Voderfone"></bean>
 </beans>

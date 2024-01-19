@@ -1,4 +1,4 @@
-package com.learn.springbasic.Spring3ApplicationContext;
+package com.learn.springbasic.spring3ApplicationContext;
 
 public class Student {
     private String name;

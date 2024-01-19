@@ -1,4 +1,4 @@
-package com.learn.springbasic.Spring1IoC;
+package com.learn.springbasic.spring1IoC;
 
 public class Jio implements Sim{
     @Override
