@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class InfoBeanTest {
     public static void main(String[] args) {
-        ApplicationContext context = new ClassPathXmlApplicationContext("File5SDIWithSettersBeanConfiguration.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("File4SDIWithSettersBeanConfiguration.xml");
         InfoBean infoBean = context.getBean("infoBean", InfoBean.class);
         infoBean.display();
     }

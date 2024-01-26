@@ -2,4 +2,17 @@ package com.learn.springbasic.spring4dependencyInjection.DI3WithFactoryMethod.ty
 
 public class Geeks {
 
+    public static final Geeks geeks = new Geeks();
+
+    private Geeks(){}
+
+    public static Geeks getGeeks(){
+        return geeks;
+    }
+
+    // this method is used to check the dependency injection
+    public void geeksMessage() {
+        System.out.println("Welcome to geeksforgeeks. DI for static factory method working good");
+    }
+
 }
